@@ -112,7 +112,7 @@ The goal of this task is to explore the **Iris dataset** and create meaningful v
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/synent-task2-irisvisualization-hajer.git
+git clone https://github.com/hajerbgh/synent-task2-irisvisualization-HajerBenghazi.git
 
 # Navigate to the directory
 cd synent-task2-irisvisualization-hajer
