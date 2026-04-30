@@ -76,7 +76,7 @@ The goal of this task is to explore the **Iris dataset** and create meaningful v
 ---
 
 ### 4. 📊 Pairplot – Feature Comparisons
-![Pairplot](visualizations/pairplot.png)
+![Pairplot](visualizations/pair_plot.png)
 
 **Insight :** *Setosa* est linéairement séparable des autres espèces. *Versicolor* et *Virginica* se chevauchent sur certaines paires de caractéristiques.
 
